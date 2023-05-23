@@ -1,4 +1,4 @@
 # TALKBOT
 
 ## Tech stack
-### python and pytx3 library 
+### Python and pytx3 library 
